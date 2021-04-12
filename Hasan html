@@ -1,0 +1,43 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="hasann.css" type="text/css">
+		
+		<title>hasaanhtml</title>
+	</head>
+	<body>
+	  
+	  <br><br> &nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp
+	   <img src="/storage/emulated/0/Pictures/Eraser/1618133525593.png" height="300px" width="270px">
+
+	  <b><p class="p"> &nbsp&nbsp &nbsp&nbspময়ূরাক্ষী </p></b>
+	  <i class="i">
+	   &nbsp&nbsp  &nbsp&nbsp &nbsp&nbsp  &nbsp&nbsp  &nbsp&nbsp   &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp&nbsp&nbsp
+	     
+	    -হুমায়ূন আহমেদ</i>
+		
+	  <br><br><br><br><br><p class="e">&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp
+	    &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp
+	    &nbsp&nbsp &nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp
+	    <br> ©🄼🄴🄷🄴🄳🄸 Ⓗ︎Ⓐ︎Ⓢ︎Ⓐ︎Ⓝ︎</p>
+		
+		<div id="menu-bar">
+			<div id="menu" onclick="onClickMenu()">
+				<div id="bar1" class="bar"></div>
+				<div id="bar2" class="bar"></div>
+				<div id="bar3" class="bar"></div>
+			</div>
+			<ul class="nav" id="nav">
+				<li><a href="/storage/emulated/0/ময়ূরাক্ষী.html">ময়ূরাক্ষী পর্ব -১</a></li>
+				<li><a href="/storage/emulated/0/ময়ূরাক্ষী 2.html">ময়ূরাক্ষী পর্ব -২</a></li>
+				<li><a href="/storage/emulated/0/ময়ূরাক্ষী 3.html">ময়ূরাক্ষী পর্ব -৩</a></li>
+				<li><a href="/storage/emulated/0/ময়ূরাক্ষী 4.html">ময়ূরাক্ষী পর্ব -৪</a></li> 
+				<li><a href="/storage/emulated/0/ময়ূরাক্ষী 5.html">ময়ূরাক্ষী পর্ব -৫</a></li>
+			 <li><a href="/storage/emulated/0/ময়ূরাক্ষী 6.html">ময়ূরাক্ষী পর্ব -৬</a></li>
+			  <li><a href="/storage/emulated/0/ময়ূরাক্ষী 7.html">ময়ূরাক্ষী পর্ব -৭</a></li>
+			  <li><a href="/storage/emulated/0/ময়ূরাক্ষী 8.html">ময়ূরাক্ষী পর্ব -৮</a></li>
+			</ul>
+		</div>
+		<div class="menu-bg" id="menu-bg"></div>
+		<script src="hasannn.js"></script>
+	</body>
+</html>
